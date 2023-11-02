@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jordan+Mitacek!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Long Island</h3>
+<h3 align="center">A passionate Computer Science student at Suffolk County Community College</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Hibernate and Springboot**
 
- 💬 Ask me about anything [here](https://github.com/Darkkid819/Darkkid819/issues)**
+ 💬 Ask me about anything **[here](https://github.com/Darkkid819/Darkkid819/issues)**
  
  </div>
  
