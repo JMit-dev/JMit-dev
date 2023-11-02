@@ -41,6 +41,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,neovim,github,git,discord" />
+    <br>
     <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgres,sqlite,c,java,spring,hibernate" /><br>
 </div>
 
