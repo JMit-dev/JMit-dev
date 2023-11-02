@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     -->
-  <a href="discordapp.com/users/darkkid819" target="_blank">
+  <a href="https://discordapp.com/users/darkkid819" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
   <a href="https://Darkkid819.github.io" target="_blank">
