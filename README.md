@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JMit-dev/JMit-dev" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jordan+Mitacek!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jordan!;" />
 </h1>
 
 <h3 align="center">A passionate Computer Science student at Stonybrook University</h3>
@@ -37,7 +37,11 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,ps,linux,neovim,github,git,bash,maven" />
     <br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgres,sqlite,c,java,spring,hibernate" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgres,sqlite,c,java,spring,hibernate" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=arch,blender,cpp,cmake,docker,figma,lua,mongodb,nodejs" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=qt,raspberrypi,react,sequelize,unreal,vim,visualstudio" />
 </div>
 
 <br/>
@@ -66,7 +70,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Discord!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Connect+with+me+on+LinkedIn!+:)">
 </h3>
 
 <br/>
